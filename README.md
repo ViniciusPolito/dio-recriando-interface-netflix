@@ -1,8 +1,6 @@
 # Dio - Recriando a Interface do Netflix
 
-<h1>
-  <img src="https://ik.imagekit.io/avgkmgrxgx/visao_78m1FcrFj.png">
-</h1>
+![animaflix](https://user-images.githubusercontent.com/41132563/170901984-93f6ffcc-a8c4-4fc5-9457-487aa756a9b5.PNG)
 
 # Índice
 - [Sobre](#sobre)
@@ -23,5 +21,5 @@ O projeto **Recriando a Interface do Netflix** é uma tela simples mostrando uma
 ---
  ## Como acessar
 
-- Baixar projeto
-- Acessar arquivo <b>index.html</b>
+- Baixar o projeto
+- Acessar o arquivo <b>index.html</b>
